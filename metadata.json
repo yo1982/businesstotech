@@ -1,0 +1,5 @@
+{
+  "name": "AI Translator: Business to Tech Docs",
+  "description": "An AI tool that translates business language into developer language. It empowers non-technical founders to transform their ideas into ready-made technical documentation (SRS/PRD) that developers can understand and build upon directly.",
+  "requestFramePermissions": []
+}
